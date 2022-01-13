@@ -1,0 +1,60 @@
+:root{
+  --color-dark: #533C3B;
+  --color-dark-2: #484A4A;
+  --color-dark-3: rgba(83, 60, 59, 0.9);
+  --white-opasiti: rgba(255,255,255,.55);
+}
+html { overflow-x: hidden; }
+header{
+  background-color: var(--color-dark);
+}
+footer{
+  background-color: var(--color-dark-2);
+}
+p{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+}
+.p-opasiti{
+  color: var(--white-opasiti);
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+}
+.bg-dark-1{
+  background-color: var(--color-dark);
+}
+.bg-dark-2{
+  background-color: var(--color-dark-2);
+}
+.bg-dark-3{
+  background-color: var(--color-dark-3);
+}
+
+.btn_hiden{
+  background-color: rgba(100, 100, 100, 0);
+  border-color: rgba(100, 100, 100, 0);
+}
+.h-bold{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+}
+.container-sm {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.container-sm:after {
+  clear: both;
+}
+.container-sm:before, .container-sm:after {
+  content: " ";
+  display: table;
+}

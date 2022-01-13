@@ -1,0 +1,11 @@
+@media all and (max-width : 600px) {
+    p{
+        font-size: 1.0rem;
+        line-height: 1;
+    }
+}
+@media (min-width: 768px){
+    .container-sm {
+        width: 750px;
+    }
+}
