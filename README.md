@@ -1,27 +1,21 @@
-# "Івано-Франківський національний медичній універсітет"
-
 <p align="center"><img height="128" src="assets/img/logo.png" /></p>
+<h1 align="center">"Івано-Франківський національний медичній універсітет"</h1>
 
-## EN
+## Description
+<b>EN:</b>
 
 This is my individual task in internship.
 
-### Screenshots of the web site:
+The project visualizes the work of the business card website of the Ivano-Frankivsk National Medical University (not an official website).
 
-<p>
-  <img src="screens/s1.png" height="20%"/>
-  <img src="screens/s2.png" height="20%"/>
-  <img src="screens/s3.png" height="20%"/>
-  <img src="screens/s4.png" height="20%"/>
-  <img src="screens/s5.png" height="20%"/>
-</p>
-
-## UA
+<b>UA:</b>
 
 Це моє індивідуальне завдання на навчальній практиці.
 
-### Скріншоти вебсайту:
+Проект візуалізує роботу сайту візитки Івано-Франківського національного медичного університету (не офіційний сайт).
 
+#
+## Screenshots
 <p>
   <img src="screens/s1.png" height="20%"/>
   <img src="screens/s2.png" height="20%"/>
@@ -30,10 +24,19 @@ This is my individual task in internship.
   <img src="screens/s5.png" height="20%"/>
 </p>
 
-## Others
+#
+## Technologies used
+<b>EN:</b>
+- Using Bootstrap (front-end framework)
+- Using Google Maps
+- Navigation on the site
 
-### License
-
+<b>UA:</b>
+- Використання Bootstrap (front-end framework)
+- Використання Google Maps
+- Навігація по сайту
+#
+## License
 ```
 © 2022, CoolOtaku (ericspz531@gmail.com)
 ```
