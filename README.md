@@ -6,13 +6,13 @@
 
 This is my individual task in internship.
 
-The project visualizes the work of the business card website of the Ivano-Frankivsk National Medical University (not an official website).
+The project visualizes the work of the business card website of the **Ivano-Frankivsk National Medical University** (not an official website).
 
 <b>UA:</b>
 
 Це моє індивідуальне завдання на навчальній практиці.
 
-Проект візуалізує роботу сайту візитки Івано-Франківського національного медичного університету (не офіційний сайт).
+Проект візуалізує роботу сайту візитки **Івано-Франківського національного медичного університету** (не офіційний сайт).
 
 #
 ## Screenshots
@@ -27,14 +27,15 @@ The project visualizes the work of the business card website of the Ivano-Franki
 #
 ## Technologies used
 <b>EN:</b>
-- Using Bootstrap (front-end framework)
-- Using Google Maps
+- Using **Bootstrap** (front-end framework)
+- Using **Google Maps**
 - Navigation on the site
 
 <b>UA:</b>
-- Використання Bootstrap (front-end framework)
-- Використання Google Maps
+- Використання **Bootstrap** (front-end framework)
+- Використання **Google Maps**
 - Навігація по сайту
+
 #
 ## License
 ```
