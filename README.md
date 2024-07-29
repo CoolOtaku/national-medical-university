@@ -30,11 +30,13 @@ The project visualizes the work of the business card website of the **Ivano-Fran
 - Using **Bootstrap** (front-end framework)
 - Using **Google Maps**
 - Navigation on the site
+- Made from a template I ordered from [Figma](https://www.figma.com)
 
 <b>UA:</b>
 - Використання **Bootstrap** (front-end framework)
 - Використання **Google Maps**
 - Навігація по сайту
+- Створено відповідно до шаблону, який я замовив у [Figma](https://www.figma.com)
 
 #
 ## License
