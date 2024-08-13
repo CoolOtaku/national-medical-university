@@ -1,5 +1,5 @@
-<p align="center"><img height="128" src="assets/img/logo.png" /></p>
-<h1 align="center">"Івано-Франківський національний медичній універсітет"</h1>
+<p align="center"><img height="128" src="assets/img/logo.png"/></p>
+<h1 align="center">Івано-Франківський національний медичній універсітет</h1>
 
 ## Description
 <b>EN:</b>
@@ -27,16 +27,18 @@ The project visualizes the work of the business card website of the **Ivano-Fran
 #
 ## Technologies used
 <b>EN:</b>
-- Using **Bootstrap** (front-end framework)
+- Using [**Bootstrap**](https://getbootstrap.com) (front-end framework)
 - Using **Google Maps**
+- Using the library [**jQuery**](https://jquery.com)
 - Navigation on the site
-- Made from a template I ordered from [Figma](https://www.figma.com)
+- Made from a template I ordered from [**Figma**](https://www.figma.com)
 
 <b>UA:</b>
-- Використання **Bootstrap** (front-end framework)
+- Використання [**Bootstrap**](https://getbootstrap.com) (front-end framework)
 - Використання **Google Maps**
+- Використання бібліотеки [**jQuery**](https://jquery.com)
 - Навігація по сайту
-- Створено відповідно до шаблону, який я замовив у [Figma](https://www.figma.com)
+- Створено відповідно до шаблону, який я замовив у [**Figma**](https://www.figma.com)
 
 #
 ## License
